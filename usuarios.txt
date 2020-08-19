@@ -1,0 +1,2 @@
+(usuario,clave)=>(m4z,1234)
+               =>(maurene,2010)
