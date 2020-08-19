@@ -1,4 +1,5 @@
 <?php
+echo "Leandro is'here"
 include "../login/home.php";
 include "../conexion/conexion.php";
 
